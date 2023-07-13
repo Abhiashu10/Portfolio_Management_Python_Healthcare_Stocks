@@ -1,4 +1,4 @@
-# Portfolio Analysis
+# Portfolio Management - Healthcare  Stocks
 
 This project focuses on analyzing a portfolio of stocks using Modern Portfolio Theory (MPT) and comparing its performance against the S&P 500 benchmark index. The portfolio consists of multiple stocks from the healthcare industry.
 
