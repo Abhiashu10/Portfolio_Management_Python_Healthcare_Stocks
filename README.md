@@ -16,8 +16,8 @@ This project focuses on analyzing a portfolio of stocks using Modern Portfolio T
 
 6. **Benchmark Comparison:** The portfolio's performance was compared to the S&P 500 benchmark index. The annual returns of the portfolio and the S&P 500 were calculated. The return difference between the portfolio and the S&P 500 for each stock was also determined.
 
-# Code: 
-https://github.com/Abhiashu10/Portfolio_Management_Python_Healthcare_Stocks/blob/fddf06ee1fd44da46a111bcaf8fe09eb552ab2a9/Portfolio%20Management%20Using%20python%20for%20healthcare%20stocks.ipynb
+## 🔗 Links
+[Code](https://github.com/Abhiashu10/Advancing-Healthcare-PyTorch-DeepLearningModel-AutoML/blob/83da50fcd990fa356dff371ddaa4614fca2cf2ac/Healthcare-Disease_Analysis.ipynb)
 
 ## Output Interpretation
 
